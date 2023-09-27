@@ -1,5 +1,5 @@
-### Hi, I’m Hanh Nhi (Julia) aka @Mruchus
+### Hi, I’m Hanh Nhi aka @Mruchus
 
-- currently a Yr 13 student 👩🏻‍🎓
-- working on my dance project 👯‍♀️👩🏻‍💻
+- currently a student at ICL 🦁💙
+
 
