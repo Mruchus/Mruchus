@@ -15,7 +15,7 @@ Other interesting bits and bobs I've worked on:
 📚 Making maths formulas easy to remember without the hassle of LaTeX.
 
 #### ARMv8-A Assembler & Emulator + Conway’s Game of Life in C
-🔧 Diving deep into computer architecture and systems programming
+🔧 Diving deep into computer architecture and systems programming\
 🐛 Bringing cellular automata to life with colours!
 
 #### [Object Classifier IOS App](https://github.com/Mruchus/imageclassifier)
