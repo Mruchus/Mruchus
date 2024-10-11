@@ -13,14 +13,14 @@ So far in my life, I've been building little things to **help the people I know*
 
 ###### Other interesting bits and bobs I've worked on:
 
-#### [Flashcard Web App](https://github.com/Mruchus/flashcard-web-app)
+### [Flashcard Web App](https://github.com/Mruchus/flashcard-web-app)
 📚 Making maths formulas easy to remember without the hassle of LaTeX.
 
-#### ARMv8-A Assembler & Emulator + Conway’s Game of Life in C
+### ARMv8-A Assembler & Emulator + Conway’s Game of Life in C
 🔧 Diving deep into computer architecture and systems programming by implementing core functionalities such as instruction parsing and execution.\
 🐛 Bringing cellular automata to life with colours via our emulator!
 
-#### [Object Classifier IOS App](https://github.com/Mruchus/imageclassifier)
+### [Object Classifier IOS App](https://github.com/Mruchus/imageclassifier)
 🔍 Detecting different objects as part of an accessibility project to help people with vision impairments
 
 ---
