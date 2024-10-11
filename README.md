@@ -7,7 +7,7 @@ I'm a **Second Year Computing Student** at [Imperial College London](https://www
 A well documented project...
 
 ### [Dance Synchronisation Analysis](https://github.com/Mruchus/dance-sync-analysis)
-💃🕺 Helping dancers perfect their moves with frame-by-frame feedback powered by ML & Python 
+💃🕺 Helping dancers perfect their moves with frame-by-frame feedback powered by ML & Python.
 
 Other interesting bits and bobs I've worked on:
 
@@ -15,8 +15,8 @@ Other interesting bits and bobs I've worked on:
 📚 Making maths formulas easy to remember without the hassle of LaTeX.
 
 #### ARMv8-A Assembler & Emulator + Conway’s Game of Life in C
-🔧 Diving deep into computer architecture and systems programming\
-🐛 Bringing cellular automata to life with colours!
+🔧 Diving deep into computer architecture and systems programming by implementing core functionalities such as instruction parsing and execution.\
+🐛 Bringing cellular automata to life with colours via our emulator!
 
 #### [Object Classifier IOS App](https://github.com/Mruchus/imageclassifier)
 🔍 Detecting different objects as part of an accessibility project to help people with vision impairments
