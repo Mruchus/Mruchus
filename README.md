@@ -24,5 +24,5 @@ Other interesting bits and bobs I've worked on:
 ---
 
 ## 🌌 Want to see a slice of my world?
-### Learn more at [mruchus.com](https://mruchus.com)
+### Learn more at: [mruchus.com](https://mruchus.com)
 *“It starts with a small flap.”* - 🌙
