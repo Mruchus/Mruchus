@@ -14,10 +14,8 @@ Other interesting bits and bobs I've worked on:
 #### [Flashcard Web App](https://github.com/Mruchus/flashcard-web-app)
 📚 Making maths formulas easy to remember without the hassle of LaTeX.
 
-#### ARMv8-A Assembler & Emulator
-🔧 Diving deep into computer architecture and systems programming with C.
-
-#### Conway’s Game of Life in C
+#### ARMv8-A Assembler & Emulator + Conway’s Game of Life in C
+🔧 Diving deep into computer architecture and systems programming
 🐛 Bringing cellular automata to life with colours!
 
 #### [Object Classifier IOS App](https://github.com/Mruchus/imageclassifier)
