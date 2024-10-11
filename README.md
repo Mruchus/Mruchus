@@ -21,11 +21,8 @@ Other interesting bits and bobs I've worked on:
 #### [Object Classifier IOS App](https://github.com/Mruchus/imageclassifier)
 🔍 Detecting different objects as part of an accessibility project to help people with vision impairments
 
-
+---
 
 ## 🌌 Want to see a slice of my world?
 ### Learn more at [mruchus.com](https://mruchus.com)
-
----
-
 *“It starts with a small flap.”* - 🌙
