@@ -1,6 +1,6 @@
 # Hi, I’m Hanh Nhi aka @Mruchus
 
-I'm a **Second Year Computing Student** at [Imperial College London](https://www.imperial.ac.uk/).\
+I'm a **Second Year Computing Student** at [Imperial College London](https://www.imperial.ac.uk/).
 
 So far in my life, I've been building little things to **help the people I know** or to **improve at my hobbies**. However, in the future I strive to work on projects with a much bigger impact - follow my journey!
 
